@@ -4,11 +4,27 @@ body {
   font-family: Veranda;
 }
 
+/* HEADINGS */
+
+
 .header--main {
   font-weight: normal;
   font-size: 50px;
   color: #FFF;
 }
+
+.header--secondary {
+  font-weight: 300px;
+  font-size: 42px;
+  color: #FFF;
+}
+
+.header--subheader {
+  font-weight: normal;
+  font-size: 21px;
+  color: gray;
+}
+/* LINKS */
 
 .link--cta {
   font-size: 16px;
